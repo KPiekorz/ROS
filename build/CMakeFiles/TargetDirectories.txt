@@ -70,3 +70,10 @@
 /home/kpiekorz/catkin_ws/build/husky_controller/CMakeFiles/husky_controller_generate_messages_eus.dir
 /home/kpiekorz/catkin_ws/build/husky_controller/CMakeFiles/rosgraph_msgs_generate_messages_nodejs.dir
 /home/kpiekorz/catkin_ws/build/husky_controller/CMakeFiles/husky_controller_geneus.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/install/strip.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/install/local.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/test.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/edit_cache.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/rebuild_cache.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/install.dir
+/home/kpiekorz/catkin_ws/build/location_monitor/CMakeFiles/list_install_components.dir

@@ -1,2 +1,2 @@
-husky_controller
+husky_controller:location_monitor
 -DCATKIN_DEVEL_PREFIX=/home/kpiekorz/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kpiekorz/catkin_ws/install -G Unix Makefiles

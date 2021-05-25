@@ -18,12 +18,16 @@ set(CMAKE_MAKEFILE_DEPENDS
   "husky_controller/catkin_generated/ordered_paths.cmake"
   "husky_controller/catkin_generated/package.cmake"
   "husky_controller/cmake/husky_controller-genmsg.cmake"
+  "location_monitor/catkin_generated/ordered_paths.cmake"
+  "location_monitor/catkin_generated/package.cmake"
   "/home/kpiekorz/catkin_ws/devel/share/husky_controller/cmake/husky_controller-msg-paths.cmake"
   "/home/kpiekorz/catkin_ws/src/CMakeLists.txt"
   "/home/kpiekorz/catkin_ws/src/husky_controller/CMakeLists.txt"
   "/home/kpiekorz/catkin_ws/src/husky_controller/package.xml"
   "/home/kpiekorz/catkin_ws/src/husky_controller/scripts/listener.py"
   "/home/kpiekorz/catkin_ws/src/husky_controller/scripts/talker.py"
+  "/home/kpiekorz/catkin_ws/src/location_monitor/CMakeLists.txt"
+  "/home/kpiekorz/catkin_ws/src/location_monitor/package.xml"
   "/opt/ros/melodic/share/catkin/cmake/all.cmake"
   "/opt/ros/melodic/share/catkin/cmake/assert.cmake"
   "/opt/ros/melodic/share/catkin/cmake/atomic_configure_file.cmake"
@@ -210,6 +214,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/googlemock/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "husky_controller/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "location_monitor/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
