@@ -3,6 +3,6 @@ prefix=/home/kpiekorz/catkin_ws/devel
 Name: husky_controller
 Description: Description of husky_controller
 Version: 0.0.0
-Cflags: 
+Cflags: -I/home/kpiekorz/catkin_ws/devel/include
 Libs: -L${prefix}/lib 
-Requires: 
+Requires: message_runtime roscpp rospy std_msgs
