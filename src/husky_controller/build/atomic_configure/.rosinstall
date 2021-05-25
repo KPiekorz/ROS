@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kpiekorz/catkin_ws/src/husky_controller/build/devel/setup.sh
