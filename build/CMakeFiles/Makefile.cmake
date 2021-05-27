@@ -24,6 +24,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/kpiekorz/catkin_ws/src/CMakeLists.txt"
   "/home/kpiekorz/catkin_ws/src/husky_controller/CMakeLists.txt"
   "/home/kpiekorz/catkin_ws/src/husky_controller/package.xml"
+  "/home/kpiekorz/catkin_ws/src/husky_controller/scripts/controller.py"
   "/home/kpiekorz/catkin_ws/src/husky_controller/scripts/listener.py"
   "/home/kpiekorz/catkin_ws/src/husky_controller/scripts/talker.py"
   "/home/kpiekorz/catkin_ws/src/location_monitor/CMakeLists.txt"

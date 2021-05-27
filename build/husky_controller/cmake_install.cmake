@@ -100,3 +100,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/husky_controller" TYPE PROGRAM FILES "/home/kpiekorz/catkin_ws/build/husky_controller/catkin_generated/installspace/listener.py")
 endif()
 
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/husky_controller" TYPE PROGRAM FILES "/home/kpiekorz/catkin_ws/build/husky_controller/catkin_generated/installspace/controller.py")
+endif()
+
