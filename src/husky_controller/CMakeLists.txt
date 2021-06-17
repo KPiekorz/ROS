@@ -162,6 +162,7 @@ catkin_install_python(PROGRAMS
   scripts/talker.py
   scripts/listener.py
   scripts/controller.py
+  scripts/advanced_husky_controller.py
   DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
 )
 

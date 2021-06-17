@@ -195,6 +195,10 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/husky_controller" TYPE PROGRAM FILES "/home/kpiekorz/catkin_ws/src/husky_controller/build/catkin_generated/installspace/controller.py")
 endif()
 
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/husky_controller" TYPE PROGRAM FILES "/home/kpiekorz/catkin_ws/src/husky_controller/build/catkin_generated/installspace/advanced_husky_controller.py")
+endif()
+
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/kpiekorz/catkin_ws/src/husky_controller/build/gtest/cmake_install.cmake")
